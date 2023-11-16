@@ -1,0 +1,22 @@
+*{
+    /* background: rgb(125, 120, 120); */
+    /* color: white; */
+}
+.parent{
+    background-color: rgb(178, 172, 164);
+    width: 500px;
+    height: 500px;
+    margin: 10% auto;
+    border: 2px solid black;
+
+}
+#input{
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+}
+#btn{
+    width: 90px;
+    height: 40px;
+    border-radius: 5px;
+}
